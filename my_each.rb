@@ -1,17 +1,17 @@
-def my_each(array)
+# def my_each(array)
   
   
-  if block_given?
-    counter = 0 
-    while counter < array.length
-      yield (array[counter])
-      counter += 1
-    end
-  array
+#   if block_given?
+#     counter = 0 
+#     while counter < array.length
+#       yield (array[counter])
+#       counter += 1
+#     end
+#   array
 
-end
+# end
 
-end
+# end
 
 
 # else
